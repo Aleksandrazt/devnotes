@@ -50,4 +50,6 @@ strict = true
 plugins = []
 
 [tool.pytest.ini_options]
+pythonpath = ["src"]
 asyncio_mode = "auto"
+python_files = "test_*.py"
