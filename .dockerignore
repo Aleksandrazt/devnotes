@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.mypy_cache/
+.pytest_cache/
+.poetry/
+.git
+.gitignore
+.vscode
+devnotes.code-workspace
