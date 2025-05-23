@@ -9,3 +9,4 @@ poetry.lock
 .pytest_cache/
 .vscode
 devnotes.code-workspace
+.ruff_cache
