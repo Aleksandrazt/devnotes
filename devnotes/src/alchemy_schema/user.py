@@ -5,7 +5,7 @@
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.orm import relationship
 
-from devnotes.src.schema.base import Base
+from devnotes.src.alchemy_schema.base import Base
 
 
 class User(Base):
